@@ -9,7 +9,7 @@
 
 1. Instale php ao seu modo (xampp, wamp ou individual) para poder rodar o projeto.
 2. Faça clone deste projeto (no caso do xampp fazer clone na pasta c:/xampp/htdocs).
-3. Abra o browser e visite a página `http://localhost/Vitrine` (se for xampp).
+3. Abra o browser e visite a página `http://localhost/`.
 
 ### Frameworks
 
